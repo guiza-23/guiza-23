@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Ruby on Rails**
 
-- 📫 How to reach me **ignaciozanotto@gmail.com**
+- 📫 How to reach me **ignaciozanotto@gmail.com** or talk to me on [linkedin.com/in/igzt](https://www.linkedin.com/in/igzt/)
 
 
 
