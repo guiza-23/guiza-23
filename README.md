@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ignacio</h1>
-<h3 align="center">A back-end developer from Argentina</h3>
+<h3 align="center">A Fullstack developer from Argentina</h3>
 
 - 🔭 I’m currently working on [Virtual Assistant](https://virtual-assistant-demo.herokuapp.com/)
 
 - 🌱 I’m currently learning **Scrum Master**
 
-- 👨‍💻 All of my projects are available at [igzt.notion.site](https://igzt.notion.site/Ignacio-Zanotto-7a5526adb5ed4e369d9a34272ea8d817)
+- 👨‍💻 Some of my projects are available at [igzt.notion.site](https://igzt.notion.site/Ignacio-Zanotto-7a5526adb5ed4e369d9a34272ea8d817)
 
 - 📝 I like to write some times [guizanotto.com](http://guizanotto.com/)
 
