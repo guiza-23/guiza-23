@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Scrum Master**
 
-- 👨‍💻 All of my projects are available at [https://www.notion.so/IZ](https://www.notion.so/IZ-7a5526adb5ed4e369d9a34272ea8d817)
+- 👨‍💻 All of my projects are available at [igzt.notion.site](https://igzt.notion.site/Ignacio-Zanotto-7a5526adb5ed4e369d9a34272ea8d817)
 
-- 📝 I like to write some times [http://guizanotto.com/](http://guizanotto.com/)
+- 📝 I like to write some times [guizanotto.com](http://guizanotto.com/)
 
 - 💬 Ask me about **Ruby on Rails**
 
