@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ignacio</h1>
 <h3 align="center">A Software developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Virtual Assistant](https://virtual-assistant-demo.herokuapp.com/)
+- 🔭 I’m currently working on [tumejoramigo.com](https://www.tumejoramigo.com.ar/)
 
 - 👨‍💻 Some of my projects are available at [igzt.notion.site](https://igzt.notion.site/Ignacio-Zanotto-7a5526adb5ed4e369d9a34272ea8d817)
 
