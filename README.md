@@ -1,12 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ignacio</h1>
-<h3 align="center">A Software developer from Argentina</h3>
-
-- 🔭 I’m currently working on [tumejoramigo.com](https://www.tumejoramigo.com.mx/)
-
-- 👨‍💻 Some of my projects are available at [igzt.notion.site](https://igzt.notion.site/Ignacio-Zanotto-7a5526adb5ed4e369d9a34272ea8d817)
-
-- 💬 Ask me about **Ruby on Rails**
-
 - 📫 How to reach me **ignaciozanotto@gmail.com** or talk to me on [linkedin.com/in/igzt](https://www.linkedin.com/in/igzt/)
 
 
