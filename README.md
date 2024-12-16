@@ -1,14 +1,17 @@
-I’m a developer and AI enthusiast passionate about creating impactful solutions with technology. I specialize in web development, AI-driven automation, and process optimization.
+<p>I’m a <strong>developer and AI enthusiast</strong> passionate about creating impactful solutions with technology. I specialize in <strong>web development</strong>, <strong>AI-driven automation</strong>, and <strong>process optimization</strong>.</p>
 
-🚀 What I’m Working On
-Currently exploring AI integration in apps and building web applications with Next.js.
+<h2>🚀 What I’m Working On</h2>
+<p>Currently exploring <strong>AI integration</strong> in apps and building web applications with <strong>Next.js</strong>.</p>
 
-🔧 Tools & Technologies
-Ruby on Rails
-Next.js
-Flask
-Supabase
+<h2>🔧 Tools & Technologies</h2>
+<ul>
+  <li>Ruby on Rails</li>
+  <li>Next.js</li>
+  <li>React Native</li>
+</ul>
 
-📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/igzt/) 
-[Twitter](https://x.com/igzanotto)
+<h2>📫 Connect with Me</h2>
+<ul>
+  <li><a href="https://linkedin.com/in/igzt" target="_blank">LinkedIn</a></li>
+  <li><a href="https://x.com/igzanotto" target="_blank">Twitter</a></li>
+</ul>
