@@ -8,6 +8,7 @@
   <li>Ruby on Rails</li>
   <li>Next.js</li>
   <li>React Native</li>
+  <li>Supabase</li>
 </ul>
 
 <h2>📫 Connect with Me</h2>
