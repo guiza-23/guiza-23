@@ -1,4 +1,4 @@
-<p>I’m a <strong>developer and AI enthusiast</strong> passionate about creating impactful solutions with technology. I specialize in <strong>web development</strong>, <strong>AI-driven automation</strong>, and <strong>process optimization</strong>.</p>
+<p> <strong>Developer and AI enthusiast</strong> passionate about creating impactful solutions with technology. I specialize in <strong>web development</strong>, <strong>AI-driven automation</strong>, and <strong>process optimization</strong>.</p>
 
 <h2>🚀 What I’m Working On</h2>
 <p>Currently exploring <strong>AI integration</strong> in apps and building web applications with <strong>Next.js</strong>.</p>
